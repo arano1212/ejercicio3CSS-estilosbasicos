@@ -1,0 +1,100 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+body {
+    background-color: #333533;
+    font-size: 16px;
+    color: #a2d2ff;
+    text-align: justify;
+    margin: 25px;
+}
+
+img {
+    width: 400px;
+    border-radius: 8px;
+}
+
+.encabezadonivel1 {
+    color: #8338ec;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+
+.encabezadonivel2 {
+    color: #f15bb5;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+
+.color1 {
+    color: yellow;
+}
+
+.color2 {
+    color: yellow;
+}
+
+.color3 {
+    color: yellow;
+}
+
+.color4 {
+    color: yellow;
+}
+
+.color5 {
+    color: yellow;
+}
+
+.IronMan {
+    color: red;
+    font-size: 22px;
+}
+
+.Hulk {
+    color: #fff;
+    background-color: #000;
+}
+
+.Thor {
+    color: #fff;
+    background-color: #000;
+}
+
+.encabezadonivel3 {
+    color: #f15bb5;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+
+.encabezadonivel4 {
+    color: #f15bb5;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+
+.Capitan {
+    color: red;
+    font-size: 22px;
+}
+
+.Hulk1 {
+    color: #fff;
+    background-color: #000;
+}
+
+.Thor1 {
+    color: #fff;
+    background-color: #000;
+}
+
+.Reparto {
+    margin-left: 35px;
+}
